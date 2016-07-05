@@ -1,6 +1,6 @@
 # Táxi Rosa
 
-Aplicativo comunitário para mulheres registrarem e compartilharem telefones de motoristas de táxi mulheres, de sua região.
+Aplicativo comunitário para mulheres registrarem e compartilharem telefones de mulheres taxistas em sua região.
 
 # Pink Taxi
 
